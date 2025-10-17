@@ -71,7 +71,7 @@ body {
 
 /* Text below rotating images */
 #drag-container p {
-  line-height: 116px;
+  line-height: 106px;
   position: absolute;
   top: 100%;
   left: 50%;
@@ -195,3 +195,4 @@ p {
     text-align: center;
   }
 }
+
